@@ -17,7 +17,7 @@ Architecture: all
 Depends: ${misc:Depends}
 Provides: ${diverted-files}
 Conflicts: ${diverted-files}
-Description: Hiding knetattach start menu entry
+Description: Hides knetattach start menu entry
  knetattach is part of the kdebase-runtime debian package. We are not aware of
  any reviews of this application with respect to anonymity/privacy. The start
  menu entry of knetattach gets hidden.
