@@ -1,8 +1,9 @@
 # Hides knetattach start menu entry #
 
+This metapackage hides the start menu entry of knetattach.
+
 knetattach is part of the kdebase-runtime debian package. We are not aware of
-any reviews of this application with respect to anonymity/privacy. The start
-menu entry of knetattach gets hidden.
+any reviews of this application with respect to anonymity/privacy.
 
 (This package description has been [automatically](https://github.com/Whonix/whonix-developer-meta-files/blob/master/debug-steps/packaging-helper-script) extracted and mirrored from `debian/control`.)
 
