@@ -20,5 +20,6 @@ Conflicts: ${diverted-files}
 Description: Hides knetattach start menu entry
  This metapackage hides the start menu entry of knetattach.
  .
- knetattach is part of the kdebase-runtime debian package. We are not aware of
- any reviews of this application with respect to anonymity/privacy.
+ knetattach is part of the kdebase-runtime Debian package. Whonix developers
+ are not aware of any reviews of this application with respect to
+ anonymity/privacy.
