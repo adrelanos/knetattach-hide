@@ -2,8 +2,9 @@
 
 This metapackage hides the start menu entry of knetattach.
 
-knetattach is part of the kdebase-runtime debian package. We are not aware of
-any reviews of this application with respect to anonymity/privacy.
+knetattach is part of the kdebase-runtime Debian package. Whonix developers
+are not aware of any reviews of this application with respect to
+anonymity/privacy.
 
 (This package description has been [automatically](https://github.com/Whonix/whonix-developer-meta-files/blob/master/debug-steps/packaging-helper-script) extracted and mirrored from `debian/control`.)
 
